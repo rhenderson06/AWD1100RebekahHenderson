@@ -1,0 +1,17 @@
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\bin\Debug\BookStore.exe
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\bin\Debug\BookStore.pdb
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\obj\Debug\BookStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\obj\Debug\BookStore.exe
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\obj\Debug\BookStore.pdb
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\obj\Debug\BookStore.frmBookDetails.resources
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\obj\Debug\BookStore.frmBookSearch.resources
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\obj\Debug\BookStore.frmHelp.resources
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\obj\Debug\BookStore.frmSplashPage.resources
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\bin\Debug\FinalProjectLibrary.dll
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\bin\Debug\FinalProjectLibrary.pdb
+C:\Users\rebek\Desktop\AWS1100RebekahHendersonFinalProject\AWD1100FinalProject\BookStore\obj\Debug\BookStore.csproj.CopyComplete

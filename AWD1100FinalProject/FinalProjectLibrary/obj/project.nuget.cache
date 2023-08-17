@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kRRUOor3WqLxc0zKsUnsrXVk4oY6l2RSPGl+xvrV7u7e62vXlYlTr2gDXhTdRC8q5WfqyEGGFHVAvsZSY1JbUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rebek\\Desktop\\AWS1100RebekahHendersonFinalProject\\AWD1100FinalProject\\FinalProjectLibrary\\FinalProjectLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rebek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rebek\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

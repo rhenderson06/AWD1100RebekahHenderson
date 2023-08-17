@@ -1,0 +1,21 @@
+"0-670-81302-8","Stephen King","IT",1986
+"978-0307743657","Stephen King","The Shining",1977
+"978-0-385-18244-7","Stephen King","Pet Sematary",1983
+"978-0671041786","Stephen King","The Green Mile",1996
+"978-0307743671","Stephen King","'Salem's Lot",1975
+"978-1982103521","Stephen King","the Mist",1980
+"978-1982110567","Stephen King","The Institute",2019
+"978-1476727653","Stephen King","Doctor Sleep",2013
+"978-1501143861","Stephen King","Gerald's Game",1992
+"978-1442359888","Stephen King","In the Tall Grass",2012
+"978-1408855652","J.K. Rowling","Harry Potter and the Philosopher's Stone",1997
+"978-0439064873","J.K. Rowling","Harry Potter and the Chamber of Secrets",1998
+"978-0439136358","J.K. Rowling","Harry Potter and the Prisoner of Azkaban",1999
+"978-1338878950","J.K. Rowling","Harry Potter and the Goblet of Fire",2000
+"978-0439358064","J.K. Rowling","Harry Potter and the Order of the Phoenix",2003
+"978-0439784542","J.K. Rowling","Harry Potter and the Half-Blood Prince",2005
+"978-1338878981","J.K. Rowling","Harry Potter and the Deathly Hallows",2007
+"978-0439023481","Suzanne Collins","The Hunger Games",2008
+"978-0545586177","Suzanne Collins","Catching Fire",2009
+"978-0545663267","Suzanne Collins","Mockingjay",2010
+"978-1338635171","Suzanne Collins","The Ballad of Songbirds and Snakes",2020
